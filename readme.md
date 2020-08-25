@@ -7,7 +7,7 @@
 > https://rstudio.com/products/rstudio/download/  
 >
 > R studio cloud   R설치가 힘드신 분들은 cloud로 작업하시면 편합니다.
-> https://rstudio.cloud/spaces/84008/project/1544796  
+> https://rstudio.cloud/
 
 > 1일차 수업 코드  
 > https://github.com/lhg96/R/blob/master/r/1st.R  
