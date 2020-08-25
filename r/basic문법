@@ -6,4 +6,10 @@ rm(list = ls())
 ls
 seq(1,10,by=2)
 
+#ctrl+enter 라인 실행 
+m5 = data.frame(id=c("a","b","c","d"),
+           score=c(90,80,70,60),
+           gender=factor(c("M","F","M","F"))
+           )
+nrow(m5) #row 개수
 
