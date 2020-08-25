@@ -13,3 +13,5 @@ m5 = data.frame(id=c("a","b","c","d"),
            )
 nrow(m5) #row 개수
 
+#데이터 보기  
+View(df)  
