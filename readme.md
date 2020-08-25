@@ -13,3 +13,6 @@
 > https://github.com/lhg96/R/blob/master/r/1st.R  
 > 1일차 연습 코드  
 > https://github.com/lhg96/R/blob/master/r/day1_script.R  
+
+> 2일차 복습문제  
+> https://github.com/lhg96/R/blob/master/r/mission1.R  
