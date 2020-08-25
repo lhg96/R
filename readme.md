@@ -16,3 +16,6 @@
 
 > 2일차 복습문제  
 > https://github.com/lhg96/R/blob/master/r/mission1.R  
+> 2일차 수업내용  
+> https://github.com/lhg96/R/blob/master/r/2st.R  
+
