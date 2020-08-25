@@ -1,4 +1,4 @@
-# 20200820 R class  
+# 20200820 배재대산단 R
 > how to use basic function 
 > R download  
 > https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe  
